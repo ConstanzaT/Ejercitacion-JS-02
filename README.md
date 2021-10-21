@@ -10,3 +10,12 @@ Crear una función restar que tome como argumentos dos números y devuelva la re
 
 <h3>multiplicar(a, b)</h3>
 Crear una función multiplicar que tome como argumentos dos números y devuelva la multiplicación de ellos
+
+<h3>dividir(a, b)</h3>
+Crear una función dividir que tome como argumentos dos números y devuelva la suma de ellos
+
+<h3>esPar(numero)</h3>
+Crear una función esPar que tome como argumento un número y devuelva true si dicho números es par o false si no lo es
+TIP: un número es par si divido por 2 el resto (o módulo) de esa operación es 0
+
+
