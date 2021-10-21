@@ -29,3 +29,7 @@ Crear una función calcularAreaTriangulo que tome como argumentos la base y la a
 
 calcularAreaTriangulo(3, 4) // 6
 calcularAreaTriangulo(5, 6) // 40
+
+
+<h3>aceptaDeposito(monto)</h3>
+Crear una función aceptaDeposito que tome como argumento un número monto y devuelva true si el monto es divisible por 10 o false si no lo es
