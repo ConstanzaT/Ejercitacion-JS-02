@@ -23,3 +23,9 @@ TIP: un número es par si divido por 2 el resto (o módulo) de esa operación es
 Crear una función esImpar que tome como argumento un número y devuelva true si dicho números es impar o false si no lo es
 
 TIP: un número es impar si divido por 2 el resto (o módulo) de esa operación no es 0
+
+<h3>calcularAreaTriangulo(base, altura)</h3>
+Crear una función calcularAreaTriangulo que tome como argumentos la base y la altura de un triángulo y devuelva el área del mismo
+
+calcularAreaTriangulo(3, 4) // 6
+calcularAreaTriangulo(5, 6) // 40
