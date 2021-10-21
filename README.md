@@ -33,3 +33,7 @@ calcularAreaTriangulo(5, 6) // 40
 
 <h3>aceptaDeposito(monto)</h3>
 Crear una función aceptaDeposito que tome como argumento un número monto y devuelva true si el monto es divisible por 10 o false si no lo es
+
+<h3>calcularPuntaje(facil, normal, dificil)</h3>
+
+Crear una función calcularPuntaje que calcule el puntaje de un examen que consiste en ejercicios de distinto nivel. Debe tomar como argumento tres que consisten en la cantidad de ejercicios resueltos en cada nivel y devolver un número con el puntaje correspondiente. El puntaje se calcula de la siguiente forma:
