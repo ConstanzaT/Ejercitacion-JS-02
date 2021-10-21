@@ -19,3 +19,7 @@ Crear una función esPar que tome como argumento un número y devuelva true si d
 TIP: un número es par si divido por 2 el resto (o módulo) de esa operación es 0
 
 
+<h3>esImpar(numero)</h3>
+Crear una función esImpar que tome como argumento un número y devuelva true si dicho números es impar o false si no lo es
+
+TIP: un número es impar si divido por 2 el resto (o módulo) de esa operación no es 0
