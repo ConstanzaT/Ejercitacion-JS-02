@@ -6,3 +6,7 @@ Crear una función sumar que tome como argumentos dos números y devuelva la sum
 
 <h3>restar(a, b)</h3>
 Crear una función restar que tome como argumentos dos números y devuelva la resta de ellos
+
+
+<h3>multiplicar(a, b)</h3>
+Crear una función multiplicar que tome como argumentos dos números y devuelva la multiplicación de ellos
